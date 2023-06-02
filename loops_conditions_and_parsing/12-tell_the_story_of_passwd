@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#
+while print_cat /etc/passwd_x10 (while);
