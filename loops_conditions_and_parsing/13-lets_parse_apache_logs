@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#
+awk print_IP HTTP_CODE_x10 (awk);
